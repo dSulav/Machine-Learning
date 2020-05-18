@@ -1,11 +1,11 @@
-# PIMA-Indian-Diabetes-Prediction
+# PIMA-Indian-Diabetes-Analysis
 
-Using Python Libraries and Basic Statistics
+# Using Python Libraries and Basic Statistics
 
 Some years ago, a research was done on a tribe in America(PIMA Tribe/PIMA Indians). In this tribe, apparently the ladies are prone to diabetes very early on.
 The whole survey was done to understand if a model can be build on it and using the values of various parameters we could predict whether a person has diabetes or not. If a person is having diabetes, then early prevention can be done.
 
-Following are the parameters(features) used to collect the data:
+# Following are the parameters(features) used to collect the data:
 
 Pregnancies: Number of times pregnant
 
